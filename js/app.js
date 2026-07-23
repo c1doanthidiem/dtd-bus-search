@@ -13,12 +13,13 @@ input.oninput = () => {
     count.innerHTML = 'Tìm thấy ' + list.length + ' kết quả';
     result.innerHTML = list.map(i => `
         <div class="card">
-            <b>Tuyến: ${i.tuyen}</b><br>
-            Điểm đi/đón: ${i.diemDon}<br>
-            Giờ đi: ${i.gioDi}<br>
-            Giờ về: ${i.gioVe}<br>
-            Giám sát xe: ${i.giaoVien}<br>
-            SĐT: ${i.dienThoai}
+            <b>${i.tuyen}</b><br>
+            <strong>📍 Điểm đi:</strong> ${i.diemDon}<br>
+            <strong>🕒 Giờ đi:</strong> ${i.gioDi}<br>
+            <strong>📍 Điểm về:</strong> Đối diện điểm đi<br>
+            <strong>🕒 Giờ về:</strong> ${i.gioVe}<br>
+            <strong class="teacher">👩‍🏫 Giáo viên:</strong> ${i.giaoVien}<br>
+            <strong class="contact">📞 Liên hệ:</strong> ${i.dienThoai}
         </div>
     `).join('');
 };
