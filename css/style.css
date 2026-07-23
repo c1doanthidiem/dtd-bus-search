@@ -4,14 +4,10 @@
     font-size: 15px;
     line-height: 1.5;
 }
-
-/* Tất cả label mặc định */
 .bus-info span{
     font-weight: 600;
     color: #555;
 }
-
-/* Giáo viên */
 .teacher{
     color: #1565c0;
     font-weight: 600;
@@ -20,13 +16,10 @@
 .teacher span{
     color: #1565c0;
 }
-
-/* Liên hệ */
 .phone{
     color: #d32f2f;
     font-weight: 600;
 }
-
 .phone span{
     color: #d32f2f;
 }
