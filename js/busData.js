@@ -1,16 +1,16 @@
 window.busData = [
-  {
+{
     "tuyen": "Xe số 1",
-    "giaoVien": "Cô Trần Thị Thúy Hằng 0914 894208",
+    "giaoVien": "Cô Trần Thị Thúy Hằng",
     "dienThoai": "0914894208",
-    "diemDon": "Chung cư Madarin 2 (99 Tân Mai)",
-    "gioDi": "6h20",
-    "diemVe": "Chung cư Madarin 2 (99 Tân Mai)",
-    "gioVe": "16h42"
+    "diemDon": "Chung cư Mandarin 2 (99 Tân Mai)",
+    "gioDi": "06:20",
+    "diemVe": "Chung cư Mandarin 2 (99 Tân Mai)",
+    "gioVe": "16:42"
   },
   {
     "tuyen": "Xe số 1",
-    "giaoVien": "Cô Trần Thị Thúy Hằng 0914 894208",
+    "giaoVien": "Cô Trần Thị Thúy Hằng",
     "dienThoai": "0914894208",
     "diemDon": "Ngã tư Bạch Mai - Đại La ",
     "gioDi": "6h24",
@@ -19,7 +19,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 1",
-    "giaoVien": "Cô Trần Thị Thúy Hằng 0914 894208",
+    "giaoVien": "Cô Trần Thị Thúy Hằng",
     "dienThoai": "0914894208",
     "diemDon": "Ngã tư Đại La - Trần Đại Nghĩa",
     "gioDi": "6h25",
@@ -28,7 +28,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 1",
-    "giaoVien": "Cô Trần Thị Thúy Hằng 0914 894208",
+    "giaoVien": "Cô Trần Thị Thúy Hằng",
     "dienThoai": "0914894208",
     "diemDon": "336 Nguyễn Trãi (Trường ĐH Khoa học XH&NV)",
     "gioDi": "6h37",
@@ -37,7 +37,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 1",
-    "giaoVien": "Cô Trần Thị Thúy Hằng 0914 894208",
+    "giaoVien": "Cô Trần Thị Thúy Hằng",
     "dienThoai": "0914894208",
     "diemDon": "90 Nguyễn Tuân ",
     "gioDi": "6h40",
@@ -46,7 +46,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 2",
-    "giaoVien": "Cô Nguyễn Thị Hương B  0977 560 676",
+    "giaoVien": "Cô Nguyễn Thị Hương B",
     "dienThoai": "0977560676",
     "diemDon": "Siêu thị Winmart (khu đô thị Định Công)",
     "gioDi": "6h25",
@@ -55,7 +55,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 2",
-    "giaoVien": "Cô Nguyễn Thị Hương B  0977 560 676",
+    "giaoVien": "Cô Nguyễn Thị Hương B",
     "dienThoai": "0977560676",
     "diemDon": "Đối diện 176 Lê Trọng Tấn",
     "gioDi": "6h27",
@@ -64,7 +64,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 2",
-    "giaoVien": "Cô Nguyễn Thị Hương B  0977 560 676",
+    "giaoVien": "Cô Nguyễn Thị Hương B",
     "dienThoai": "0977560676",
     "diemDon": "Đối diện tòa nhà Artemis",
     "gioDi": "6h30",
@@ -73,7 +73,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 2",
-    "giaoVien": "Cô Nguyễn Thị Hương B  0977 560 676",
+    "giaoVien": "Cô Nguyễn Thị Hương B",
     "dienThoai": "0977560676",
     "diemDon": "Đối diện BT Không Quân (Trường Chinh)",
     "gioDi": "6h32",
@@ -82,7 +82,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 2",
-    "giaoVien": "Cô Nguyễn Thị Hương B  0977 560 676",
+    "giaoVien": "Cô Nguyễn Thị Hương B",
     "dienThoai": "0977560676",
     "diemDon": "108 Nguyễn Trãi và 200 Nguyễn Trãi",
     "gioDi": "6h35",
@@ -91,7 +91,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": "52A Trần Nhân Tông ",
     "gioDi": "6h25",
@@ -100,7 +100,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": "Cổng Bộ Văn hoá (74 Ngô Quyền)",
     "gioDi": "6h27",
@@ -109,7 +109,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": " 32 Lý Thường Kiệt",
     "gioDi": "6h34",
@@ -118,7 +118,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": "Công viên Lê Nin (đón tại mặt phố Trần Phú)",
     "gioDi": "6h44",
@@ -127,7 +127,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": " Kim Mã - Núi Trúc (gần bốt công an)",
     "gioDi": "6h51",
@@ -136,7 +136,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": "Vinhomes Metropolis - 304 Kim Mã",
     "gioDi": "6h54",
@@ -145,7 +145,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": "Hồ Ngọc Khánh (Đối diện 33 Nguyễn Chí Thanh)",
     "gioDi": "6h30",
@@ -154,7 +154,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": "58 Nguyễn Chí Thanh",
     "gioDi": "6h33",
@@ -163,7 +163,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 3",
-    "giaoVien": "Cô Nguyễn Thanh Phương  0984 811 589",
+    "giaoVien": "Cô Nguyễn Thanh Phương",
     "dienThoai": "0984811589",
     "diemDon": "26 Trần Duy Hưng ",
     "gioDi": "6h53",
@@ -172,7 +172,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 4",
-    "giaoVien": "Cô Nguyễn Thị Trang 039 980 5056  0782396516",
+    "giaoVien": "Cô Nguyễn Thị Trang",
     "dienThoai": "0399805056",
     "diemDon": "Góc công viên Linh Đàm - CT5 X2",
     "gioDi": "6h20",
@@ -181,7 +181,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 4",
-    "giaoVien": "Cô Nguyễn Thị Trang 039 980 5056  0782396516",
+    "giaoVien": "Cô Nguyễn Thị Trang",
     "dienThoai": "0399805056",
     "diemDon": "Đối diện Đồn CA Kim Giang 62 Kim Giang",
     "gioDi": "6h30",
@@ -190,7 +190,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 4",
-    "giaoVien": "Cô Nguyễn Thị Trang 039 980 5056  0782396516",
+    "giaoVien": "Cô Nguyễn Thị Trang",
     "dienThoai": "0399805056",
     "diemDon": "Đối diện Số 2 Kim Giang",
     "gioDi": "6h31",
@@ -199,7 +199,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 4",
-    "giaoVien": "Cô Nguyễn Thị Trang 039 980 5056  0782396516",
+    "giaoVien": "Cô Nguyễn Thị Trang",
     "dienThoai": "0399805056",
     "diemDon": "Đối diện 248 Khương Đình (gần Cầu Khương Đình)",
     "gioDi": "6h33",
@@ -208,7 +208,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 4",
-    "giaoVien": "Cô Nguyễn Thị Trang 039 980 5056  0782396516",
+    "giaoVien": "Cô Nguyễn Thị Trang",
     "dienThoai": "0399805056",
     "diemDon": "Đồn Công An Thanh Xuân ",
     "gioDi": "6h40",
@@ -217,7 +217,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 4",
-    "giaoVien": "Cô Nguyễn Thị Trang 039 980 5056  0782396516",
+    "giaoVien": "Cô Nguyễn Thị Trang",
     "dienThoai": "0399805056",
     "diemDon": "Đối diện CC Hapulico (85 Vũ Trọng Phụng)",
     "gioDi": "6h45",
@@ -226,7 +226,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 5",
-    "giaoVien": "Cô Trần Thị Hạnh 0976 156 568",
+    "giaoVien": "Cô Trần Thị Hạnh",
     "dienThoai": "0976156568",
     "diemDon": "202 Khâm Thiên",
     "gioDi": "6h25",
@@ -235,7 +235,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 5",
-    "giaoVien": "Cô Trần Thị Hạnh 0976 156 568",
+    "giaoVien": "Cô Trần Thị Hạnh",
     "dienThoai": "0976156568",
     "diemDon": "224 Nguyễn Lương Bằng",
     "gioDi": "6h29",
@@ -244,7 +244,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 5",
-    "giaoVien": "Cô Trần Thị Hạnh 0976 156 568",
+    "giaoVien": "Cô Trần Thị Hạnh",
     "dienThoai": "0976156568",
     "diemDon": "Toà nhà Hà Thành Plaza (102 Thái Thịnh)",
     "gioDi": "6h34",
@@ -253,7 +253,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 5",
-    "giaoVien": "Cô Trần Thị Hạnh 0976 156 568",
+    "giaoVien": "Cô Trần Thị Hạnh",
     "dienThoai": "0976156568",
     "diemDon": "KS Hacinco (Thái Thịnh)",
     "gioDi": "6h37",
@@ -262,7 +262,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 5",
-    "giaoVien": "Cô Trần Thị Hạnh 0976 156 568",
+    "giaoVien": "Cô Trần Thị Hạnh",
     "dienThoai": "0976156568",
     "diemDon": "Doanh trại Quân đội (Lê Văn Lương-Hoàng Ngân)",
     "gioDi": "6h45",
@@ -271,7 +271,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 5",
-    "giaoVien": "Cô Trần Thị Hạnh 0976 156 568",
+    "giaoVien": "Cô Trần Thị Hạnh",
     "dienThoai": "0976156568",
     "diemDon": "CT3 Vimeco (đường Nguyễn Chánh) ",
     "gioDi": "6h45",
@@ -280,7 +280,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 5",
-    "giaoVien": "Cô Trần Thị Hạnh 0976 156 568",
+    "giaoVien": "Cô Trần Thị Hạnh",
     "dienThoai": "0976156568",
     "diemDon": "Ngã tư Nguyễn Chánh-Mạc Thái Tổ ",
     "gioDi": "6h50",
@@ -289,7 +289,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 6",
-    "giaoVien": "Cô Hồ Thị Mơ 0972 615 876",
+    "giaoVien": "Cô Hồ Thị Mơ",
     "dienThoai": "0972615876",
     "diemDon": "Đối diện Cổng BV đa khoa QT Vinmec (Time city)",
     "gioDi": "6h20",
@@ -298,7 +298,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 6",
-    "giaoVien": "Cô Hồ Thị Mơ 0972 615 876",
+    "giaoVien": "Cô Hồ Thị Mơ",
     "dienThoai": "0972615876",
     "diemDon": "Chung cư Hòa Bình Green 505 Minh Khai",
     "gioDi": "6h22",
@@ -307,7 +307,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 6",
-    "giaoVien": "Cô Hồ Thị Mơ 0972 615 876",
+    "giaoVien": "Cô Hồ Thị Mơ",
     "dienThoai": "0972615876",
     "diemDon": "581 Kim Ngưu",
     "gioDi": "6h26",
@@ -316,7 +316,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 6",
-    "giaoVien": "Cô Hồ Thị Mơ 0972 615 876",
+    "giaoVien": "Cô Hồ Thị Mơ",
     "dienThoai": "0972615876",
     "diemDon": "93 Lò Đúc",
     "gioDi": "6h33",
@@ -325,7 +325,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 6",
-    "giaoVien": "Cô Hồ Thị Mơ 0972 615 876",
+    "giaoVien": "Cô Hồ Thị Mơ",
     "dienThoai": "0972615876",
     "diemDon": "B1 Phạm Ngọc Thạch (Nhà hàng Kichi Kichi)",
     "gioDi": "6h45",
@@ -334,7 +334,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 6",
-    "giaoVien": "Cô Hồ Thị Mơ 0972 615 876",
+    "giaoVien": "Cô Hồ Thị Mơ",
     "dienThoai": "0972615876",
     "diemDon": "gần tòa Parkson - 208 Tây Sơn",
     "gioDi": "6h48",
@@ -343,7 +343,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 6",
-    "giaoVien": "Cô Hồ Thị Mơ 0972 615 876",
+    "giaoVien": "Cô Hồ Thị Mơ",
     "dienThoai": "0972615876",
     "diemDon": "324 Tây Sơn (NH Seabank)",
     "gioDi": "6h51",
@@ -352,7 +352,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 7",
-    "giaoVien": "Cô Trần Thị Yên 0983 688 026",
+    "giaoVien": "Cô Trần Thị Yên",
     "dienThoai": "0983688026",
     "diemDon": "Mặt sau Nơ 6B Bán đảo Linh Đàm ",
     "gioDi": "6h20",
@@ -361,7 +361,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 7",
-    "giaoVien": "Cô Trần Thị Yên 0983 688 026",
+    "giaoVien": "Cô Trần Thị Yên",
     "dienThoai": "0983688026",
     "diemDon": "VP2 Linh Đàm",
     "gioDi": "6h22",
@@ -370,7 +370,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 7",
-    "giaoVien": "Cô Trần Thị Yên 0983 688 026",
+    "giaoVien": "Cô Trần Thị Yên",
     "dienThoai": "0983688026",
     "diemDon": "Tòa nhà CT1  Bắc Linh Đàm",
     "gioDi": "6h27",
@@ -379,7 +379,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 7",
-    "giaoVien": "Cô Trần Thị Yên 0983 688 026",
+    "giaoVien": "Cô Trần Thị Yên",
     "dienThoai": "0983688026",
     "diemDon": "TT tư vấn và dịch vụ vắc xin (gần ngã tư Cầu Dậu \nKĐT Kim Văn - Kim Lũ)",
     "gioDi": "6h30",
@@ -388,7 +388,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 7",
-    "giaoVien": "Cô Trần Thị Yên 0983 688 026",
+    "giaoVien": "Cô Trần Thị Yên",
     "dienThoai": "0983688026",
     "diemDon": "Đối diện The Manor Central Park (Nguyễn Xiển)",
     "gioDi": "6h33",
@@ -397,7 +397,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 7",
-    "giaoVien": "Cô Trần Thị Yên 0983 688 026",
+    "giaoVien": "Cô Trần Thị Yên",
     "dienThoai": "0983688026",
     "diemDon": "307 Nguyễn Xiển ",
     "gioDi": "6h36",
@@ -406,7 +406,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 7",
-    "giaoVien": "Cô Trần Thị Yên 0983 688 026",
+    "giaoVien": "Cô Trần Thị Yên",
     "dienThoai": "0983688026",
     "diemDon": "Ngã ba Khuất Duy Tiến - Nguỵ Như Kon Tum ",
     "gioDi": "6h40",
@@ -415,7 +415,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 8",
-    "giaoVien": "Cô Nguyễn Ngọc Bích 0374 356 000",
+    "giaoVien": "Cô Nguyễn Ngọc Bích",
     "dienThoai": "0374356000",
     "diemDon": "Đầu đường La Cả (Hà Đông)",
     "gioDi": "6h18",
@@ -424,7 +424,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 8",
-    "giaoVien": "Cô Nguyễn Ngọc Bích 0374 356 000",
+    "giaoVien": "Cô Nguyễn Ngọc Bích",
     "dienThoai": "0374356000",
     "diemDon": "Cổng KĐT Parkcity- Lê Trọng Tấn - Hà Đông",
     "gioDi": "6h20",
@@ -433,7 +433,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 8",
-    "giaoVien": "Cô Nguyễn Ngọc Bích 0374 356 000",
+    "giaoVien": "Cô Nguyễn Ngọc Bích",
     "dienThoai": "0374356000",
     "diemDon": "CT6 Khu đô thị Văn Khê (Hà Đông)",
     "gioDi": "6h28",
@@ -442,7 +442,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 8",
-    "giaoVien": "Cô Nguyễn Ngọc Bích 0374 356 000",
+    "giaoVien": "Cô Nguyễn Ngọc Bích",
     "dienThoai": "0374356000",
     "diemDon": "CC Tây Hà Tower - 19 Tố Hữu",
     "gioDi": "6h44",
@@ -451,7 +451,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 8",
-    "giaoVien": "Cô Nguyễn Ngọc Bích 0374 356 000",
+    "giaoVien": "Cô Nguyễn Ngọc Bích",
     "dienThoai": "0374356000",
     "diemDon": "CC HH2 Bắc Hà Tower - 17 Tố Hữu",
     "gioDi": "6h38",
@@ -460,7 +460,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 9",
-    "giaoVien": "Cô Chử Thị Quỳnh Anh 0936 773 636",
+    "giaoVien": "Cô Chử Thị Quỳnh Anh",
     "dienThoai": "0936773636",
     "diemDon": "Sảnh R1A Royal",
     "gioDi": "6h35",
@@ -469,7 +469,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 9",
-    "giaoVien": "Cô Chử Thị Quỳnh Anh 0936 773 636",
+    "giaoVien": "Cô Chử Thị Quỳnh Anh",
     "dienThoai": "0936773636",
     "diemDon": "R2B Royal City",
     "gioDi": "6h36",
@@ -478,7 +478,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 9",
-    "giaoVien": "Cô Chử Thị Quỳnh Anh 0936 773 636",
+    "giaoVien": "Cô Chử Thị Quỳnh Anh",
     "dienThoai": "0936773636",
     "diemDon": "Tòa Dianond Tower (mặt đường Lê Văn Lương)",
     "gioDi": "6h45",
@@ -487,7 +487,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 9",
-    "giaoVien": "Cô Chử Thị Quỳnh Anh 0936 773 636",
+    "giaoVien": "Cô Chử Thị Quỳnh Anh",
     "dienThoai": "0936773636",
     "diemDon": "CT4 Ngã 3 Mễ Trì (Phạm Hùng)",
     "gioDi": "6h55",
@@ -496,7 +496,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 10",
-    "giaoVien": "Cô Nguyễn Thị Tú 0393 509 905",
+    "giaoVien": "Cô Nguyễn Thị Tú",
     "dienThoai": "0393509905",
     "diemDon": "Tòa B Chung cư Imperia Garden ",
     "gioDi": "6h30",
@@ -505,7 +505,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 10",
-    "giaoVien": "Cô Nguyễn Thị Tú 0393 509 905",
+    "giaoVien": "Cô Nguyễn Thị Tú",
     "dienThoai": "0393509905",
     "diemDon": "188 Nguyễn Tuân",
     "gioDi": "6h32",
@@ -514,7 +514,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 10",
-    "giaoVien": "Cô Nguyễn Thị Tú 0393 509 905",
+    "giaoVien": "Cô Nguyễn Thị Tú",
     "dienThoai": "0393509905",
     "diemDon": "Cổng Công viên Cầu Giấy ",
     "gioDi": "6h50",
@@ -523,7 +523,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 10",
-    "giaoVien": "Cô Nguyễn Thị Tú 0393 509 905",
+    "giaoVien": "Cô Nguyễn Thị Tú",
     "dienThoai": "0393509905",
     "diemDon": "Đối diện Tòa Skypark (Tôn Thất Thuyết)",
     "gioDi": "6h53",
@@ -532,7 +532,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 11",
-    "giaoVien": "Cô Nguyễn Thị Hoa 038 299 8991",
+    "giaoVien": "Cô Nguyễn Thị Hoa",
     "dienThoai": "0382998991",
     "diemDon": "Sân chơi khu chung cư VOV Mễ Trì (CT1A - CT2)",
     "gioDi": "6h35",
@@ -541,7 +541,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 11",
-    "giaoVien": "Cô Nguyễn Thị Hoa 038 299 8991",
+    "giaoVien": "Cô Nguyễn Thị Hoa",
     "dienThoai": "0382998991",
     "diemDon": "Cổng chào Vinhome Green Bay Đại lộ Thăng Long",
     "gioDi": "6h43",
@@ -550,7 +550,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 11",
-    "giaoVien": "Cô Nguyễn Thị Hoa 038 299 8991",
+    "giaoVien": "Cô Nguyễn Thị Hoa",
     "dienThoai": "0382998991",
     "diemDon": "Golden Palace (Mễ Trì)",
     "gioDi": "6h47",
@@ -559,7 +559,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 12",
-    "giaoVien": "Cô Nguyễn Thị Huyền Phương 0979 827 578",
+    "giaoVien": "Cô Nguyễn Thị Huyền Phương",
     "dienThoai": "0979827578",
     "diemDon": "Cổng Học viện Âm nhạc Quốc gia VN - 77 Hào Nam",
     "gioDi": "6h30",
@@ -568,7 +568,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 12",
-    "giaoVien": "Cô Nguyễn Thị Huyền Phương 0979 827 578",
+    "giaoVien": "Cô Nguyễn Thị Huyền Phương",
     "dienThoai": "0979827578",
     "diemDon": "Điểm xe buýt Hồ Hoàng Cầu ",
     "gioDi": "6h33",
@@ -577,7 +577,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 12",
-    "giaoVien": "Cô Nguyễn Thị Huyền Phương 0979 827 578",
+    "giaoVien": "Cô Nguyễn Thị Huyền Phương",
     "dienThoai": "0979827578",
     "diemDon": "56 Hoàng Cầu",
     "gioDi": "6h35",
@@ -586,7 +586,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 12",
-    "giaoVien": "Cô Nguyễn Thị Huyền Phương 0979 827 578",
+    "giaoVien": "Cô Nguyễn Thị Huyền Phương",
     "dienThoai": "0979827578",
     "diemDon": "Đối diện Đài Truyền hình Hà Nội",
     "gioDi": "6h40",
@@ -595,7 +595,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 12",
-    "giaoVien": "Cô Nguyễn Thị Huyền Phương 0979 827 578",
+    "giaoVien": "Cô Nguyễn Thị Huyền Phương",
     "dienThoai": "0979827578",
     "diemDon": "Đối diện tòa Hong Kong Tower \n(đường Huỳnh Thúc Kháng kéo dài)",
     "gioDi": "6h45",
@@ -604,7 +604,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 12",
-    "giaoVien": "Cô Nguyễn Thị Huyền Phương 0979 827 578",
+    "giaoVien": "Cô Nguyễn Thị Huyền Phương",
     "dienThoai": "0979827578",
     "diemDon": "Tòa nhà Sunrise (đón tại phố Trần Thái Tông)",
     "gioDi": "6h55",
@@ -613,7 +613,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "Nhà văn hóa Quận Tây Hồ - 691 Lạc Long Quân",
     "gioDi": "6h32",
@@ -622,7 +622,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "Tòa Lotte Mall Lạc Long Quân",
     "gioDi": "6h33",
@@ -631,7 +631,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "Tòa nhà Tân Hoàng Minh - 667 Lạc Long Quân",
     "gioDi": "6h36",
@@ -640,7 +640,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "491 Lạc Long Quân - Khách sạn Sunset ",
     "gioDi": "6h38",
@@ -649,7 +649,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "113-115 Lạc Long Quân",
     "gioDi": "6h40",
@@ -658,7 +658,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "14 Hoàng Quốc Việt",
     "gioDi": "6h45",
@@ -667,7 +667,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "Ngõ 120 Hoàng Quốc Việt",
     "gioDi": "6h47",
@@ -676,7 +676,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "Ngõ 180 Hoàng Quốc Việt",
     "gioDi": "6h48",
@@ -685,7 +685,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 13",
-    "giaoVien": "Cô Nguyễn Thương Huyền 0914 161 796",
+    "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
     "diemDon": "236 Hoàng Quốc Việt (chân cầu đi bộ)",
     "gioDi": "6h50",
@@ -694,7 +694,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 14",
-    "giaoVien": "Cô Nguyễn Thu Hường 0975 329 580",
+    "giaoVien": "Cô Nguyễn Thu Hường",
     "dienThoai": "0975329580",
     "diemDon": "Đối diện Cổng số 4 Madarin Hoàng Minh Giám",
     "gioDi": "6h35",
@@ -703,7 +703,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 14",
-    "giaoVien": "Cô Nguyễn Thu Hường 0975 329 580",
+    "giaoVien": "Cô Nguyễn Thu Hường",
     "dienThoai": "0975329580",
     "diemDon": "Vinhomes Westpoint Đỗ Đức Dục ",
     "gioDi": "6h40",
@@ -712,7 +712,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 14",
-    "giaoVien": "Cô Nguyễn Thu Hường 0975 329 580",
+    "giaoVien": "Cô Nguyễn Thu Hường",
     "dienThoai": "0975329580",
     "diemDon": "Vinhomes Skylake Phạm Hùng",
     "gioDi": "6h45",
@@ -721,7 +721,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "186 Xuân Diệu (điểm đăng ký xe Công an Phường Tây Hồ)",
     "gioDi": "6h20",
@@ -730,7 +730,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "123 Âu Cơ - Tây Hồ",
     "gioDi": "6h22",
@@ -739,7 +739,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "Cửa hàng KFC (đầu đường Thanh Niên)",
     "gioDi": "6h25",
@@ -748,7 +748,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "69 Thụy Khuê",
     "gioDi": "6h29",
@@ -757,7 +757,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "Cây xăng Tam Đa ",
     "gioDi": "6h35",
@@ -766,7 +766,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "UBND Phường Liễu Giai (26 Văn Cao)",
     "gioDi": "6h37",
@@ -775,7 +775,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "12 Đào Tấn",
     "gioDi": "6h40",
@@ -784,7 +784,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "120 Đào Tấn (Trường MN Hướng Dương)",
     "gioDi": "6h43",
@@ -793,7 +793,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 15",
-    "giaoVien": "Cô Nguyễn Thanh Huyền 0902 192 380",
+    "giaoVien": "Cô Nguyễn Thanh Huyền",
     "dienThoai": "0902192380",
     "diemDon": "Ngã tư Dương Quảng Hàm - Nguyễn Khánh Toàn",
     "gioDi": "6h50",
@@ -847,7 +847,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "240 Tôn Đức Thắng",
     "gioDi": "6h25",
@@ -856,7 +856,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "D2 Giảng Võ (đối diện Nhà sách Trí Tuệ)",
     "gioDi": "6h30",
@@ -865,7 +865,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "Đối diện Tòa nhà số 57 Láng Hạ ",
     "gioDi": "6h35",
@@ -874,7 +874,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "Đối diện cầu 361 đường Láng",
     "gioDi": "6h38",
@@ -883,7 +883,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "1124 đường Láng (đối diện cầu Cót)",
     "gioDi": "6h41",
@@ -892,7 +892,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "KS Cầu Giấy ",
     "gioDi": "6h43",
@@ -901,7 +901,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "124 Xuân Thủy",
     "gioDi": "6h45",
@@ -910,7 +910,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 17",
-    "giaoVien": "Cô Nguyễn Thị Huế 0903 262 154",
+    "giaoVien": "Cô Nguyễn Thị Huế",
     "dienThoai": "0903262154",
     "diemDon": "Cổng trường ĐH Quốc gia Hà Nội (Xuân Thủy)",
     "gioDi": "6h46",
@@ -919,7 +919,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 18",
-    "giaoVien": "Cô Đặng Thị Bích Thủy 0976 500 690",
+    "giaoVien": "Cô Đặng Thị Bích Thủy",
     "dienThoai": "0976500690",
     "diemDon": "R6 RoyalCity (gần trường cấp 2 BVIS)",
     "gioDi": "6h30",
@@ -928,7 +928,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 18",
-    "giaoVien": "Cô Đặng Thị Bích Thủy 0976 500 690",
+    "giaoVien": "Cô Đặng Thị Bích Thủy",
     "dienThoai": "0976500690",
     "diemDon": "R5 Royal City",
     "gioDi": "6h32",
@@ -937,7 +937,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 18",
-    "giaoVien": "Cô Đặng Thị Bích Thủy 0976 500 690",
+    "giaoVien": "Cô Đặng Thị Bích Thủy",
     "dienThoai": "0976500690",
     "diemDon": "R4 Royal City (Trung tâm thương mại) ",
     "gioDi": "6h35",
@@ -946,7 +946,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 18",
-    "giaoVien": "Cô Đặng Thị Bích Thủy 0976 500 690",
+    "giaoVien": "Cô Đặng Thị Bích Thủy",
     "dienThoai": "0976500690",
     "diemDon": "24T2 Hoàng Đạo Thúy ",
     "gioDi": "6h45",
@@ -955,7 +955,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 18",
-    "giaoVien": "Cô Đặng Thị Bích Thủy 0976 500 690",
+    "giaoVien": "Cô Đặng Thị Bích Thủy",
     "dienThoai": "0976500690",
     "diemDon": "Tòa nhà 48 tầng Keangnam ",
     "gioDi": "6h52",
@@ -964,7 +964,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 18",
-    "giaoVien": "Cô Đặng Thị Bích Thủy 0976 500 690",
+    "giaoVien": "Cô Đặng Thị Bích Thủy",
     "dienThoai": "0976500690",
     "diemDon": "The Manor (Bitexco) Mễ Trì ",
     "gioDi": "6h55",
@@ -973,7 +973,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 19",
-    "giaoVien": "Cô Nguyễn Thị Hương 0989 221 472",
+    "giaoVien": "Cô Nguyễn Thị Hương",
     "dienThoai": "0989221472",
     "diemDon": "Cổng đầu Ciputra (cổng số 1) Nguyễn Hoàng Tôn",
     "gioDi": "6h27",
@@ -982,7 +982,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 19",
-    "giaoVien": "Cô Nguyễn Thị Hương 0989 221 472",
+    "giaoVien": "Cô Nguyễn Thị Hương",
     "dienThoai": "0989221472",
     "diemDon": "Tòa E4, E5 Ciputra",
     "gioDi": "6h30",
@@ -991,7 +991,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 19",
-    "giaoVien": "Cô Nguyễn Thị Hương 0989 221 472",
+    "giaoVien": "Cô Nguyễn Thị Hương",
     "dienThoai": "0989221472",
     "diemDon": "Cổng giữa Ciputra (cổng số 2) Nguyễn Hoàng Tôn",
     "gioDi": "6h35",
@@ -1000,7 +1000,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 19",
-    "giaoVien": "Cô Nguyễn Thị Hương 0989 221 472",
+    "giaoVien": "Cô Nguyễn Thị Hương",
     "dienThoai": "0989221472",
     "diemDon": "Nguyễn Hoàng Tôn - Phạm Văn Đồng (cổng 3 Ciputra)",
     "gioDi": "6h38",
@@ -1009,7 +1009,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 19",
-    "giaoVien": "Cô Nguyễn Thị Hương 0989 221 472",
+    "giaoVien": "Cô Nguyễn Thị Hương",
     "dienThoai": "0989221472",
     "diemDon": "Đối diện CT2 Đỗ Nhuận ( gần siêu thị điện máy HC - đầu ngõ 397 Phạm Văn Đồng",
     "gioDi": "6h40",
@@ -1018,7 +1018,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 19",
-    "giaoVien": "Cô Nguyễn Thị Hương 0989 221 472",
+    "giaoVien": "Cô Nguyễn Thị Hương",
     "dienThoai": "0989221472",
     "diemDon": "326 Phạm Văn Đồng (Ngân hàng TP Bank)",
     "gioDi": "6h43",
@@ -1027,7 +1027,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 19",
-    "giaoVien": "Cô Nguyễn Thị Hương 0989 221 472",
+    "giaoVien": "Cô Nguyễn Thị Hương",
     "dienThoai": "0989221472",
     "diemDon": "Tòa nhà 27A3-KĐT Green Star - Phạm Văn Đồng",
     "gioDi": "6h45",
@@ -1036,7 +1036,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 20",
-    "giaoVien": "Cô Nguyễn Thị Thúy 0382 082 795",
+    "giaoVien": "Cô Nguyễn Thị Thúy",
     "dienThoai": "0382082795",
     "diemDon": "Vương quốc đồ chơi Chuchin (khu đất dịch vụ LK8, phường Hà Đông) ",
     "gioDi": "6h22",
@@ -1045,7 +1045,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 20",
-    "giaoVien": "Cô Nguyễn Thị Thúy 0382 082 795",
+    "giaoVien": "Cô Nguyễn Thị Thúy",
     "dienThoai": "0382082795",
     "diemDon": "CC Ecolife 58 Tố Hữu",
     "gioDi": "6h35",
@@ -1054,7 +1054,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 20",
-    "giaoVien": "Cô Nguyễn Thị Thúy 0382 082 795",
+    "giaoVien": "Cô Nguyễn Thị Thúy",
     "dienThoai": "0382082795",
     "diemDon": "Tòa The Light (Tố Hữu - gần cây xăng)",
     "gioDi": "6h37",
@@ -1063,7 +1063,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 20",
-    "giaoVien": "Cô Nguyễn Thị Thúy 0382 082 795",
+    "giaoVien": "Cô Nguyễn Thị Thúy",
     "dienThoai": "0382082795",
     "diemDon": "The Matrix one (Lê Quang Đạo)",
     "gioDi": "6h50",
@@ -1072,7 +1072,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 21",
-    "giaoVien": "Cô Nguyễn Thị Anh 0975 355 304",
+    "giaoVien": "Cô Nguyễn Thị Anh",
     "dienThoai": "0975355304",
     "diemDon": "I3 - Imperia Smart City Tây Mỗ",
     "gioDi": "6h25",
@@ -1081,7 +1081,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 21",
-    "giaoVien": "Cô Nguyễn Thị Anh 0975 355 304",
+    "giaoVien": "Cô Nguyễn Thị Anh",
     "dienThoai": "0975355304",
     "diemDon": "Toà TC3 The Canopy Vinhomes Smart City, Tây Mỗ",
     "gioDi": "6h27",
@@ -1090,7 +1090,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 21",
-    "giaoVien": "Cô Nguyễn Thị Anh 0975 355 304",
+    "giaoVien": "Cô Nguyễn Thị Anh",
     "dienThoai": "0975355304",
     "diemDon": "Tòa A Masteri West Height Tây Mỗ",
     "gioDi": "6h28",
@@ -1099,7 +1099,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 21",
-    "giaoVien": "Cô Nguyễn Thị Anh 0975 355 304",
+    "giaoVien": "Cô Nguyễn Thị Anh",
     "dienThoai": "0975355304",
     "diemDon": "Toà SA5, Sakura, Vinhomes Smart city, Tây Mỗ",
     "gioDi": "6h32",
@@ -1108,7 +1108,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 21",
-    "giaoVien": "Cô Nguyễn Thị Anh 0975 355 304",
+    "giaoVien": "Cô Nguyễn Thị Anh",
     "dienThoai": "0975355304",
     "diemDon": "S1/06 Vinhome Smart City Tây Mỗ",
     "gioDi": "6h34",
@@ -1117,7 +1117,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 21",
-    "giaoVien": "Cô Nguyễn Thị Anh 0975 355 304",
+    "giaoVien": "Cô Nguyễn Thị Anh",
     "dienThoai": "0975355304",
     "diemDon": "S1/02 Vinsmart City Tây Mỗ",
     "gioDi": "6h35",
@@ -1126,7 +1126,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 22",
-    "giaoVien": "Cô Lâm Thị Nô En: 0974 971 085",
+    "giaoVien": "Cô Lâm Thị Nô En",
     "dienThoai": "0974971085",
     "diemDon": "Chung cư An Bình A1, A2",
     "gioDi": "6h39",
@@ -1135,7 +1135,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 22",
-    "giaoVien": "Cô Lâm Thị Nô En: 0974 971 085",
+    "giaoVien": "Cô Lâm Thị Nô En",
     "dienThoai": "0974971085",
     "diemDon": "Chung cư An Bình A3, A4",
     "gioDi": "6h38",
@@ -1144,7 +1144,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 22",
-    "giaoVien": "Cô Lâm Thị Nô En: 0974 971 085",
+    "giaoVien": "Cô Lâm Thị Nô En",
     "dienThoai": "0974971085",
     "diemDon": "Chung cư An Bình  A5, A6",
     "gioDi": "6h46",
@@ -1153,7 +1153,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 22",
-    "giaoVien": "Cô Lâm Thị Nô En: 0974 971 085",
+    "giaoVien": "Cô Lâm Thị Nô En",
     "dienThoai": "0974971085",
     "diemDon": "Chung cư An Bình  A7, A8",
     "gioDi": "6h48",
@@ -1162,7 +1162,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 23",
-    "giaoVien": "Cô Nguyễn Thanh Sơn 0932 256373",
+    "giaoVien": "Cô Nguyễn Thanh Sơn",
     "dienThoai": "0932256373",
     "diemDon": "Tòa Discovery Complex 302 Cầu Giấy",
     "gioDi": "6h37",
@@ -1171,7 +1171,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 23",
-    "giaoVien": "Cô Nguyễn Thanh Sơn 0932 256373",
+    "giaoVien": "Cô Nguyễn Thanh Sơn",
     "dienThoai": "0932256373",
     "diemDon": "Đài Tưởng niệm gần UBND Phường Dịch Vọng \n(Trần Đăng Ninh)",
     "gioDi": "6h39",
@@ -1180,7 +1180,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 23",
-    "giaoVien": "Cô Nguyễn Thanh Sơn 0932 256373",
+    "giaoVien": "Cô Nguyễn Thanh Sơn",
     "dienThoai": "0932256373",
     "diemDon": "B4 Làng quốc tế Thăng Long ",
     "gioDi": "6h42",
@@ -1189,7 +1189,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 23",
-    "giaoVien": "Cô Nguyễn Thanh Sơn 0932 256373",
+    "giaoVien": "Cô Nguyễn Thanh Sơn",
     "dienThoai": "0932256373",
     "diemDon": "Tòa A1 và A2 Vinhome Gardenia (Hàm Nghi)",
     "gioDi": "7h00",
@@ -1198,7 +1198,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 24",
-    "giaoVien": "Cô Ngô Thúy Nga 0961 337780",
+    "giaoVien": "Cô Ngô Thúy Nga",
     "dienThoai": "0961337780",
     "diemDon": "491 Nguyễn Trãi",
     "gioDi": "6h35",
@@ -1207,7 +1207,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 24",
-    "giaoVien": "Cô Ngô Thúy Nga 0961 337780",
+    "giaoVien": "Cô Ngô Thúy Nga",
     "dienThoai": "0961337780",
     "diemDon": "Đối diện Tòa nhà Thăng Long Number one",
     "gioDi": "6h43",
@@ -1216,7 +1216,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 25",
-    "giaoVien": "Cô Cô Đặng Thị Hoa 0986 650 446",
+    "giaoVien": "Cô Cô Đặng Thị Hoa",
     "dienThoai": "0986650446",
     "diemDon": "Tòa N04A ngoại giao Đoàn (đón trên phố Minh Tảo)",
     "gioDi": "6h35",
@@ -1225,7 +1225,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 25",
-    "giaoVien": "Cô Cô Đặng Thị Hoa 0986 650 446",
+    "giaoVien": "Cô Cô Đặng Thị Hoa",
     "dienThoai": "0986650446",
     "diemDon": "Tòa N03-T1 khu ngoại giao Đoàn",
     "gioDi": "6h38",
@@ -1234,7 +1234,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 25",
-    "giaoVien": "Cô Cô Đặng Thị Hoa 0986 650 446",
+    "giaoVien": "Cô Cô Đặng Thị Hoa",
     "dienThoai": "0986650446",
     "diemDon": "Tòa N01-T4 khu ngoại giao Đoàn",
     "gioDi": "6h40",
@@ -1243,7 +1243,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 25",
-    "giaoVien": "Cô Cô Đặng Thị Hoa 0986 650 446",
+    "giaoVien": "Cô Cô Đặng Thị Hoa",
     "dienThoai": "0986650446",
     "diemDon": "46 Trần Quốc Hoàn",
     "gioDi": "6h50",
@@ -1252,7 +1252,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": "Cột đồng hồ ngã tư Văn Phú",
     "gioDi": "6h20",
@@ -1261,7 +1261,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": " Cổng B chung cư Hyundai Hillstate (Tô Hiệu - Hà Đông)",
     "gioDi": "6h23",
@@ -1270,7 +1270,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": "Toà nhà HUD3 số 121-123 Tô Hiệu, Hà Đông",
     "gioDi": "6h25",
@@ -1279,7 +1279,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": "267 Quang Trung (Hà Đông)",
     "gioDi": "6h27",
@@ -1288,7 +1288,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": "31 Quang Trung (Hà Đông)",
     "gioDi": "6h29",
@@ -1297,7 +1297,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": "Ngân hàng Agribank - Mỗ Lao",
     "gioDi": "6h35",
@@ -1306,7 +1306,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": "Quán Vịt 34 - 165 Nguyễn Văn Lộc",
     "gioDi": "6h38",
@@ -1315,7 +1315,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 26",
-    "giaoVien": "Cô Kiều Thị Quỳnh Hoa 0989 620 624",
+    "giaoVien": "Cô Kiều Thị Quỳnh Hoa",
     "dienThoai": "0989620624",
     "diemDon": "Ngân hàng Vikki bank 16 Nguyễn Văn Lộc",
     "gioDi": "6h40",
@@ -1324,7 +1324,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 27",
-    "giaoVien": "Cô Nguyễn Thị Thanh Huyền  0944 434691",
+    "giaoVien": "Cô Nguyễn Thị Thanh Huyền",
     "dienThoai": "0944434691",
     "diemDon": "Chung cư 6th Element (Nguyễn Văn Huyên)",
     "gioDi": "6h40",
@@ -1333,7 +1333,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 27",
-    "giaoVien": "Cô Nguyễn Thị Thanh Huyền  0944 434691",
+    "giaoVien": "Cô Nguyễn Thị Thanh Huyền",
     "dienThoai": "0944434691",
     "diemDon": "Bảo tàng Tăng Thiết Giáp (108 Hoàng Quốc Việt)",
     "gioDi": "6h45",
@@ -1342,7 +1342,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 27",
-    "giaoVien": "Cô Nguyễn Thị Thanh Huyền  0944 434691",
+    "giaoVien": "Cô Nguyễn Thị Thanh Huyền",
     "dienThoai": "0944434691",
     "diemDon": "Chung cư The Nine - số 9 Phạm Văn Đồng",
     "gioDi": "6h52",
@@ -1351,7 +1351,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 27",
-    "giaoVien": "Cô Nguyễn Thị Thanh Huyền  0944 434691",
+    "giaoVien": "Cô Nguyễn Thị Thanh Huyền",
     "dienThoai": "0944434691",
     "diemDon": "Cổng trường Tiểu học Newton \n(Goldmark City Hồ Tùng Mậu)",
     "gioDi": "7h00",
@@ -1360,7 +1360,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 28",
-    "giaoVien": "Cô Lê Kim Ngân 0915 073 669",
+    "giaoVien": "Cô Lê Kim Ngân",
     "dienThoai": "0915073669",
     "diemDon": "Ngã tư Bạch Thái Bưởi - Nguyễn Khuyến (Hà Đông)",
     "gioDi": "6h25",
@@ -1369,7 +1369,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 28",
-    "giaoVien": "Cô Lê Kim Ngân 0915 073 669",
+    "giaoVien": "Cô Lê Kim Ngân",
     "dienThoai": "0915073669",
     "diemDon": "Tòa nhà New Skylines (KĐT Văn Quán)",
     "gioDi": "6h27",
@@ -1378,7 +1378,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 28",
-    "giaoVien": "Cô Lê Kim Ngân 0915 073 669",
+    "giaoVien": "Cô Lê Kim Ngân",
     "dienThoai": "0915073669",
     "diemDon": "Cà phê Trung Nguyên Đối diện cổng B Mulberry lane",
     "gioDi": "6h30",
@@ -1387,7 +1387,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 28",
-    "giaoVien": "Cô Lê Kim Ngân 0915 073 669",
+    "giaoVien": "Cô Lê Kim Ngân",
     "dienThoai": "0915073669",
     "diemDon": "Techcombank  - TSQ Làng Việt Kiều Châu Âu\n(Đối diện 37 Nguyễn Văn Lộc)",
     "gioDi": "6h32",
@@ -1396,7 +1396,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 29",
-    "giaoVien": "Cô Cao Thanh Hương 0913 072 111",
+    "giaoVien": "Cô Cao Thanh Hương",
     "dienThoai": "0913072111",
     "diemDon": "Sảnh J - tòa CT7 KĐT Dương Nội  (Hà Đông)",
     "gioDi": "6h25",
@@ -1405,7 +1405,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 29",
-    "giaoVien": "Cô Cao Thanh Hương 0913 072 111",
+    "giaoVien": "Cô Cao Thanh Hương",
     "dienThoai": "0913072111",
     "diemDon": "Cổng chào khu Dương Nội (Hà Đông)",
     "gioDi": "6h27",
@@ -1414,7 +1414,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 29",
-    "giaoVien": "Cô Cao Thanh Hương 0913 072 111",
+    "giaoVien": "Cô Cao Thanh Hương",
     "dienThoai": "0913072111",
     "diemDon": "HH2 Dương Nội, Yên Nghĩa, Hà Đông",
     "gioDi": "6h28",
@@ -1423,7 +1423,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 29",
-    "giaoVien": "Cô Cao Thanh Hương 0913 072 111",
+    "giaoVien": "Cô Cao Thanh Hương",
     "dienThoai": "0913072111",
     "diemDon": "Khu đô thị Đô Nghĩa",
     "gioDi": "6h29",
@@ -1432,7 +1432,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 29",
-    "giaoVien": "Cô Cao Thanh Hương 0913 072 111",
+    "giaoVien": "Cô Cao Thanh Hương",
     "dienThoai": "0913072111",
     "diemDon": "Chung cư Pride (Tố Hữu )",
     "gioDi": "6h35",
@@ -1441,7 +1441,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 29",
-    "giaoVien": "Cô Cao Thanh Hương 0913 072 111",
+    "giaoVien": "Cô Cao Thanh Hương",
     "dienThoai": "0913072111",
     "diemDon": "Cổng chào KĐT Nam Cường",
     "gioDi": "6h38",
@@ -1450,7 +1450,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 29",
-    "giaoVien": "Cô Cao Thanh Hương 0913 072 111",
+    "giaoVien": "Cô Cao Thanh Hương",
     "dienThoai": "0913072111",
     "diemDon": "Siêu Thị GS25 CT1 Trung Văn",
     "gioDi": "6h55",
@@ -1459,7 +1459,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 30",
-    "giaoVien": "Cô Lê Thị Thơm 0985 330 284",
+    "giaoVien": "Cô Lê Thị Thơm",
     "dienThoai": "0985330284",
     "diemDon": "Siêu thị Market (KĐT Splendora)",
     "gioDi": "6h20",
@@ -1468,7 +1468,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 30",
-    "giaoVien": "Cô Lê Thị Thơm 0985 330 284",
+    "giaoVien": "Cô Lê Thị Thơm",
     "dienThoai": "0985330284",
     "diemDon": "Vinhomes Thăng Long (cổng 2)",
     "gioDi": "6h25",
@@ -1477,7 +1477,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 30",
-    "giaoVien": "Cô Lê Thị Thơm 0985 330 284",
+    "giaoVien": "Cô Lê Thị Thơm",
     "dienThoai": "0985330284",
     "diemDon": "Ngã 3 Chùa Tổng",
     "gioDi": "6h30",
@@ -1486,7 +1486,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 30",
-    "giaoVien": "Cô Lê Thị Thơm 0985 330 284",
+    "giaoVien": "Cô Lê Thị Thơm",
     "dienThoai": "0985330284",
     "diemDon": "Đối diện cổng KĐT Thiên Đường Bảo Sơn",
     "gioDi": "6h35",
@@ -1495,7 +1495,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 30",
-    "giaoVien": "Cô Lê Thị Thơm 0985 330 284",
+    "giaoVien": "Cô Lê Thị Thơm",
     "dienThoai": "0985330284",
     "diemDon": "A32 Khu đô thị Geleximco, Đ. Lê Trọng Tấn",
     "gioDi": "6h40",
@@ -1504,7 +1504,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 30",
-    "giaoVien": "Cô Lê Thị Thơm 0985 330 284",
+    "giaoVien": "Cô Lê Thị Thơm",
     "dienThoai": "0985330284",
     "diemDon": "GS1 Vinhomes Smart City (Tây Mỗ)",
     "gioDi": "6h45",
@@ -1513,7 +1513,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 31",
-    "giaoVien": "Cô Trịnh Thị Duyên 039 865 9950",
+    "giaoVien": "Cô Trịnh Thị Duyên",
     "dienThoai": "0398659950",
     "diemDon": "CC Moonlight I - KĐT An Lạc Green Symphony",
     "gioDi": "6h30",
@@ -1522,7 +1522,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 31",
-    "giaoVien": "Cô Trịnh Thị Duyên 039 865 9950",
+    "giaoVien": "Cô Trịnh Thị Duyên",
     "dienThoai": "0398659950",
     "diemDon": "KĐT Viglacera Xuân Phương",
     "gioDi": "6h32",
@@ -1531,7 +1531,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 31",
-    "giaoVien": "Cô Trịnh Thị Duyên 039 865 9950",
+    "giaoVien": "Cô Trịnh Thị Duyên",
     "dienThoai": "0398659950",
     "diemDon": "I15 T10 KĐT mới Xuân Phương",
     "gioDi": "6h34",
@@ -1540,7 +1540,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 31",
-    "giaoVien": "Cô Trịnh Thị Duyên 039 865 9950",
+    "giaoVien": "Cô Trịnh Thị Duyên",
     "dienThoai": "0398659950",
     "diemDon": "D39 - TT9, Tổ 6 Xuân Phương",
     "gioDi": "6h36",
@@ -1549,7 +1549,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 31",
-    "giaoVien": "Cô Trịnh Thị Duyên 039 865 9950",
+    "giaoVien": "Cô Trịnh Thị Duyên",
     "dienThoai": "0398659950",
     "diemDon": "Tòa D Chung cư Báo Nhân dân, Xuân Phương",
     "gioDi": "6h40",
@@ -1558,7 +1558,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 31",
-    "giaoVien": "Cô Trịnh Thị Duyên 039 865 9950",
+    "giaoVien": "Cô Trịnh Thị Duyên",
     "dienThoai": "0398659950",
     "diemDon": "Chung cư Mỹ Đình Pearl 2",
     "gioDi": "6h48",
@@ -1567,7 +1567,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 32",
-    "giaoVien": "Cô Đống Thị Ngọc Thùy 0982 843 569",
+    "giaoVien": "Cô Đống Thị Ngọc Thùy",
     "dienThoai": "0982843569",
     "diemDon": "ngõ 76 Kim Mã Thượng",
     "gioDi": "6h20",
@@ -1576,7 +1576,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 32",
-    "giaoVien": "Cô Đống Thị Ngọc Thùy 0982 843 569",
+    "giaoVien": "Cô Đống Thị Ngọc Thùy",
     "dienThoai": "0982843569",
     "diemDon": "ngõ 61 Phùng Chí Kiên",
     "gioDi": "6h25",
@@ -1585,7 +1585,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 32",
-    "giaoVien": "Cô Đống Thị Ngọc Thùy 0982 843 569",
+    "giaoVien": "Cô Đống Thị Ngọc Thùy",
     "dienThoai": "0982843569",
     "diemDon": "ngõ 17 Phùng Chí Kiên",
     "gioDi": "6h27",
@@ -1594,7 +1594,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 32",
-    "giaoVien": "Cô Đống Thị Ngọc Thùy 0982 843 569",
+    "giaoVien": "Cô Đống Thị Ngọc Thùy",
     "dienThoai": "0982843569",
     "diemDon": "1 Phùng Chí Kiên (Cổng sau chung cư Tràng An) ",
     "gioDi": "6h29",
@@ -1603,7 +1603,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 32",
-    "giaoVien": "Cô Đống Thị Ngọc Thùy 0982 843 569",
+    "giaoVien": "Cô Đống Thị Ngọc Thùy",
     "dienThoai": "0982843569",
     "diemDon": "Chung cư MHDI 60 Hoàng Quốc Việt",
     "gioDi": "6h35",
@@ -1612,7 +1612,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 32",
-    "giaoVien": "Cô Đống Thị Ngọc Thùy 0982 843 569",
+    "giaoVien": "Cô Đống Thị Ngọc Thùy",
     "dienThoai": "0982843569",
     "diemDon": "CT3A KĐT Cổ Nhuế - Phố Tôn Quang Phiệt",
     "gioDi": "6h43",
@@ -1621,7 +1621,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 32",
-    "giaoVien": "Cô Đống Thị Ngọc Thùy 0982 843 569",
+    "giaoVien": "Cô Đống Thị Ngọc Thùy",
     "dienThoai": "0982843569",
     "diemDon": "CC T6/8 KĐT Nam Cường, Tôn Quang Phiệt",
     "gioDi": "6h45",
@@ -1630,7 +1630,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "Chung cư Lạc Hồng Westlake",
     "gioDi": "6h20",
@@ -1639,7 +1639,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "UDIC Westlake Võ Chí Công",
     "gioDi": "6h21",
@@ -1648,7 +1648,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "Sảnh 1 tòa B chung cư IA20, Ciputra KĐT Nam Thăng Long",
     "gioDi": "6h27",
@@ -1657,7 +1657,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "S2 Sunshine",
     "gioDi": "6h29",
@@ -1666,7 +1666,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "CT1 Chung cư Thái Hà ",
     "gioDi": "6h39",
@@ -1675,7 +1675,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "B5 Khu chung cư Green Stars",
     "gioDi": "6h44",
@@ -1684,7 +1684,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "27A3 KĐT Greeen Star, Phạm Văn Đồng",
     "gioDi": "6h45",
@@ -1693,7 +1693,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "27A1 KĐT Greeen Star, Phạm Văn Đồng",
     "gioDi": "6h46",
@@ -1702,7 +1702,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "Chung cư The Nine - số 9 Phạm Văn Đồng",
     "gioDi": "6h50",
@@ -1711,7 +1711,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 33",
-    "giaoVien": "Cô Ma Thị Như Khánh 033 856 3164",
+    "giaoVien": "Cô Ma Thị Như Khánh",
     "dienThoai": "0338563164",
     "diemDon": "Sảnh Tây, IPH 241 Xuân Thuỷ",
     "gioDi": "6h54",
@@ -1720,7 +1720,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "447 Âu Cơ",
     "gioDi": "6h25",
@@ -1729,7 +1729,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "CT2A HDI Tây Hồ",
     "gioDi": "6h30",
@@ -1738,7 +1738,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "Ngõ 28 Xuân La",
     "gioDi": "6h34",
@@ -1747,7 +1747,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "Ngõ 40 Xuân La",
     "gioDi": "6h38",
@@ -1756,7 +1756,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "CC Kosmo 161 Xuân La",
     "gioDi": "6h39",
@@ -1765,7 +1765,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "Nhà BT11-H11, KĐT Star lake Tây Hồ Tây",
     "gioDi": "6h44",
@@ -1774,7 +1774,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "BT32 TT3H7 Starlake Tây Hồ Tây,Xuân Đỉnh",
     "gioDi": "6h46",
@@ -1783,7 +1783,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "Toà 901 starlake Tây Hồ Tây",
     "gioDi": "6h48",
@@ -1792,7 +1792,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 34",
-    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên 0979 249 086",
+    "giaoVien": "Cô Nguyễn Thị Thanh Xuyên",
     "dienThoai": "0979249086",
     "diemDon": "CT2B KĐT Nghĩa Đô ",
     "gioDi": "6h50",
@@ -1801,7 +1801,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "Sảnh A, toà CT6A, Anland Lake View, KĐT Dương Nội",
     "gioDi": "6h25",
@@ -1810,7 +1810,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "Louis 9 căn 40, louis city Đại Mỗ, Đại Mỗ",
     "gioDi": "6h23",
@@ -1819,7 +1819,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "G2 Vinhomes Green Bay",
     "gioDi": "6h32",
@@ -1828,7 +1828,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "G3 Vinhomes Green Bay",
     "gioDi": "6h33",
@@ -1837,7 +1837,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "Số 2 TT5 - VOV Mễ Trì Hà Nội",
     "gioDi": "6h34",
@@ -1846,7 +1846,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "G1 Vinhomes Green Bay",
     "gioDi": "6h36",
@@ -1855,7 +1855,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "134 Mễ Trì Thượng",
     "gioDi": "6h44",
@@ -1864,7 +1864,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 35",
-    "giaoVien": "Cô Lê Thị Mai 0984 281868",
+    "giaoVien": "Cô Lê Thị Mai",
     "dienThoai": "0984281868",
     "diemDon": "Số 10 Đại lộ Thăng Long",
     "gioDi": "6h46",
@@ -1873,7 +1873,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "45 Hoàng Cầu",
     "gioDi": "6h20",
@@ -1882,7 +1882,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "Sảnh B Tân Hoàng Minh D'le Pont D'or, \nngõ 36 Hoàng Cầu",
     "gioDi": "6h23",
@@ -1891,7 +1891,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "Số 8 Ngõ 25 phố Võ Văn Dũng",
     "gioDi": "6h25",
@@ -1900,7 +1900,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "36 Nguyên Hồng, phường Láng, Hà Nội",
     "gioDi": "",
@@ -1909,7 +1909,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "62 Huỳnh Thúc Kháng kéo dài (Thẩm mỹ viện Ohara)",
     "gioDi": "6h28",
@@ -1918,7 +1918,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "157C phố Chùa Láng",
     "gioDi": "6h33",
@@ -1927,7 +1927,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "Bệnh viện Giao thông vận tải",
     "gioDi": "6h35",
@@ -1936,7 +1936,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "N07 B1.2 Chung cư Thanh Bình, đường Thành Thái",
     "gioDi": "6h48",
@@ -1945,7 +1945,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "Nhà E21-N05 KĐT Dịch Vọng, Cầu Giấy",
     "gioDi": "6h50",
@@ -1954,7 +1954,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương 0988 767 611",
+    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
     "dienThoai": "0988767611",
     "diemDon": "N04 Chung cư Thanh Bình, đường Thành Thái",
     "gioDi": "6h52",
@@ -1963,7 +1963,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "Vimeco Phạm Hùng (Tú Mỡ)",
     "gioDi": "6h30",
@@ -1972,7 +1972,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "Chung cư Viện chiến lược Khoa học công an (5 Tú Mỡ)",
     "gioDi": "6h32",
@@ -1981,7 +1981,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "3 Vũ Phạm Hàm",
     "gioDi": "6h35",
@@ -1990,7 +1990,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "Chung cư Homecity 177 Trung Kính",
     "gioDi": "6h40",
@@ -1999,7 +1999,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "B11B Nam Trung Yên, Yên Hòa",
     "gioDi": "6h42",
@@ -2008,7 +2008,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "CC E1-Ngõ 37 Trần Kim Xuyến",
     "gioDi": "6h45",
@@ -2017,7 +2017,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "Chung cư Chelsea park, Yên Hòa",
     "gioDi": "6h47",
@@ -2026,7 +2026,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "Trường Mầm non Yên Hòa",
     "gioDi": "6h49",
@@ -2035,7 +2035,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà 0968 156 964",
+    "giaoVien": "Cô Phạm Thái Hà",
     "dienThoai": "0968156964",
     "diemDon": "Chung cư Paragon (181 Trần Quốc Vượng)",
     "gioDi": "6h50",
@@ -2044,7 +2044,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương 038 899 8971",
+    "giaoVien": "Cô Vũ Thị Lương",
     "dienThoai": "0388998971",
     "diemDon": "Nhà N10 Tòa nhà Hà Đô Park View, \nphố Dịch Vọng",
     "gioDi": "6h30",
@@ -2053,7 +2053,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương 038 899 8971",
+    "giaoVien": "Cô Vũ Thị Lương",
     "dienThoai": "0388998971",
     "diemDon": "CC Luxury Park view  (Trương Công Giai)",
     "gioDi": "6h35",
@@ -2062,7 +2062,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương 038 899 8971",
+    "giaoVien": "Cô Vũ Thị Lương",
     "dienThoai": "0388998971",
     "diemDon": "Star Tower Dương Đình Nghệ",
     "gioDi": "6h36",
@@ -2071,7 +2071,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương 038 899 8971",
+    "giaoVien": "Cô Vũ Thị Lương",
     "dienThoai": "0388998971",
     "diemDon": "Golden Park - Số 2 Phạm Văn Bạch",
     "gioDi": "6h38",
@@ -2080,7 +2080,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương 038 899 8971",
+    "giaoVien": "Cô Vũ Thị Lương",
     "dienThoai": "0388998971",
     "diemDon": "6 Nguyễn Hoàng (Dolphin Plaza)",
     "gioDi": "6h42",
@@ -2089,7 +2089,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương 038 899 8971",
+    "giaoVien": "Cô Vũ Thị Lương",
     "dienThoai": "0388998971",
     "diemDon": "Mỹ Đình Plaza 2 (Trần Bình)",
     "gioDi": "6h45",
@@ -2098,7 +2098,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương 038 899 8971",
+    "giaoVien": "Cô Vũ Thị Lương",
     "dienThoai": "0388998971",
     "diemDon": "Tòa nhà 7A Lê Đức Thọ",
     "gioDi": "6h50",
@@ -2107,7 +2107,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Tượng đài thị trấn Phùng, Đan Phượng",
     "gioDi": "6h15",
@@ -2116,7 +2116,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Chung cư Tân Việt ",
     "gioDi": "6h23",
@@ -2125,7 +2125,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Khu đô thị Tân Tây Đô, Trôi, Hoài Đức",
     "gioDi": "6h26",
@@ -2134,7 +2134,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Ngã tư Trôi",
     "gioDi": "6h31",
@@ -2143,7 +2143,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Chung cư CT1 KĐT HUD Vân Canh, Hoài Đức",
     "gioDi": "6h40",
@@ -2152,7 +2152,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "VIA Coffee - Số 47, Liền kề 22, KĐT HUD Vân Canh",
     "gioDi": "6h43",
@@ -2161,7 +2161,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "17B14 KĐT Vân Canh, Hoài Đức",
     "gioDi": "6h44",
@@ -2170,7 +2170,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Số 12A BT14 KĐT Vân Canh, Hoài Đức",
     "gioDi": "6h45",
@@ -2179,7 +2179,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Số 4 LK33, KĐT HUD Vân Canh, Hoài Đức ",
     "gioDi": "6h47",
@@ -2188,7 +2188,7 @@ window.busData = [
   },
   {
     "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư 036 6600 659",
+    "giaoVien": "Cô Nguyễn Thị Thư",
     "dienThoai": "0366600659",
     "diemDon": "Số 1 LK31, KĐT Vân Canh, Hoài Đức Hà Nội",
     "gioDi": "6h50",
