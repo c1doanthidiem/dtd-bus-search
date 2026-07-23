@@ -1,25 +1,77 @@
-const input = document.getElementById('keyword'),
-      result = document.getElementById('result'),
-      count = document.getElementById('count');
+const input = document.getElementById("keyword");
+const result = document.getElementById("result");
+const count = document.getElementById("count");
 
-input.oninput = () => {
-    const k = input.value.trim();
-    if (!k) {
-        count.innerHTML = '';
-        result.innerHTML = '';
+function render(list) {
+    count.innerHTML = `Tìm thấy <b>${list.length}</b> điểm đón`;
+    if (list.length === 0) {
+        result.innerHTML = `
+            <div class="empty">
+                <h2>🔍 Không tìm thấy kết quả</h2>
+                <p>Vui lòng thử từ khóa khác.</p>
+            </div>
+        `;
         return;
     }
-    const list = searchBus(k);
-    count.innerHTML = 'Tìm thấy ' + list.length + ' kết quả';
-result.innerHTML = list.map(i => `
-    <div class="card">
-        <b>${i.tuyen}</b><br>
-        <strong> Điểm đi:</strong> ${i.diemDon}<br>
-        <strong> Giờ đi:</strong> ${i.gioDi}<br>
-        <strong> Điểm về:</strong> ${i.diemVe}<br>
-        <strong> Giờ về:</strong> ${i.gioVe}<br>
-        <strong class="teacher">👩‍🏫 Giám sát xe:</strong> ${i.giaoVien}<br>
-        <strong class="contact">📞 Liên hệ:</strong> ${i.dienThoai}
-    </div>
-`).join('');
-};
+    result.innerHTML = list.map(i => `
+        <div class="card">
+            <div class="card-top">
+                <h2>🚌 ${i.tuyen || ''}</h2>
+                <span class="position">${i.giaoVien || ''}</span>
+            </div>
+
+            <div class="card-body">
+                <div class="item">
+                    <div class="icon">📍</div>
+                    <div>
+                        <div class="label">Điểm đón</div>
+                        <div class="value">${i.diemDon || ''}</div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="icon">🕐</div>
+                    <div>
+                        <div class="label">Giờ đón</div>
+                        <div class="value">${i.gioDi || ''}</div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="icon">🏁</div>
+                    <div>
+                        <div class="label">Điểm trả</div>
+                        <div class="value">${i.diemVe || ''}</div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="icon">🕓</div>
+                    <div>
+                        <div class="label">Giờ trả</div>
+                        <div class="value">${i.gioVe || ''}</div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="icon">📞</div>
+                    <div>
+                        <div class="label">Giám sát xe</div>
+                        <div class="value">${i.giaoVien || ''}<br>${i.dienThoai || ''}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    `).join("");
+}
+render(window.busData || []);
+input.addEventListener("input", () => {
+    const keyword = input.value.trim();
+
+    if (keyword === "") {
+        render(window.busData || []);
+        return;
+    }
+
+    render(searchBus(keyword));
+});
