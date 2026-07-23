@@ -1,65 +1,32 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+.bus-info div{
+    margin: 6px 0;
+    color: #333;
+    font-size: 15px;
+    line-height: 1.5;
 }
 
-body{
-    font-family:"Segoe UI",sans-serif;
-    background:linear-gradient(135deg,#eef5fb,#dceeff);
-    padding:40px 20px;
+/* Tất cả label mặc định */
+.bus-info span{
+    font-weight: 600;
+    color: #555;
 }
 
-.container{
-    max-width:900px;
-    margin:auto;
-    background:#fff;
-    border-radius:20px;
-    padding:35px;
-    box-shadow:0 15px 35px rgba(0,0,0,.1);
+/* Giáo viên */
+.teacher{
+    color: #1565c0;
+    font-weight: 600;
 }
 
-.logo{
-    text-align:center;
-    margin-bottom:30px;
+.teacher span{
+    color: #1565c0;
 }
 
-.logo img{
-    width:90px;
-    margin-bottom:12px;
+/* Liên hệ */
+.phone{
+    color: #d32f2f;
+    font-weight: 600;
 }
 
-.logo h1{
-    color:#0b6fb8;
-    font-size:28px;
-    margin-bottom:5px;
-}
-
-.logo p{
-    color:#666;
-}
-
-input{
-    width:100%;
-    padding:15px 18px;
-    border:2px solid #d7e6f7;
-    border-radius:12px;
-    font-size:16px;
-    margin-bottom:20px;
-    transition:.3s;
-}
-
-input:focus{
-    outline:none;
-    border-color:#0b6fb8;
-    box-shadow:0 0 10px rgba(11,111,184,.2);
-}
-
-.card{
-    background:white;
-    padding:18px;
-    border-left:5px solid #0b6fb8;
-    border-radius:12px;
-    margin:15px 0;
-    box-shadow:0 5px 15px rgba(0,0,0,.08);
+.phone span{
+    color: #d32f2f;
 }
