@@ -1,63 +1,65 @@
-.bus-info {
-    color: #333;
-    font-size: 15px;
-    line-height: 1.7;
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
 }
 
-.bus-info strong {
-    color: #222;
-    font-weight: 600;
+body{
+    font-family:"Segoe UI",sans-serif;
+    background:linear-gradient(135deg,#eef5fb,#dceeff);
+    padding:40px 20px;
 }
 
-.bus-info i {
-    width: 20px;
-    color: #666;
-}
-.teacher {
-    color: #2563eb;
-    font-weight: 600;
-}
-
-.teacher i {
-    color: #2563eb;
-}
-
-.contact {
-    color: #2563eb;
-    font-weight: 600;
-}
-
-.contact i {
-    color: #2563eb;
-}
-.route,
-.pickup,
-.dropoff,
-.time {
-    color: #444;
-}
-
-.route i,
-.pickup i,
-.dropoff i,
-.time i {
-    color: #666;
-}
-.bus-card{
+.container{
+    max-width:900px;
+    margin:auto;
     background:#fff;
-    border-radius:18px;
-    padding:20px 24px;
-    box-shadow:0 6px 20px rgba(0,0,0,.08);
-    border-left:5px solid #2f80ed;
-    margin-bottom:18px;
-    .bus-title{
-    font-size:26px;
-    font-weight:700;
-    color:#222;
-    margin-bottom:14px;
+    border-radius:20px;
+    padding:35px;
+    box-shadow:0 15px 35px rgba(0,0,0,.1);
 }
 
-.bus-title i{
-    color:#222;
-    margin-right:8px;
+.logo{
+    text-align:center;
+    margin-bottom:30px;
+}
+
+.logo img{
+    width:90px;
+    margin-bottom:12px;
+}
+
+.logo h1{
+    color:#0b6fb8;
+    font-size:28px;
+    margin-bottom:5px;
+}
+
+.logo p{
+    color:#666;
+}
+
+input{
+    width:100%;
+    padding:15px 18px;
+    border:2px solid #d7e6f7;
+    border-radius:12px;
+    font-size:16px;
+    margin-bottom:20px;
+    transition:.3s;
+}
+
+input:focus{
+    outline:none;
+    border-color:#0b6fb8;
+    box-shadow:0 0 10px rgba(11,111,184,.2);
+}
+
+.card{
+    background:white;
+    padding:18px;
+    border-left:5px solid #0b6fb8;
+    border-radius:12px;
+    margin:15px 0;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
 }
