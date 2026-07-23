@@ -14,10 +14,10 @@ input.oninput = () => {
 result.innerHTML = list.map(i => `
     <div class="card">
         <b>${i.tuyen}</b><br>
-        <strong>📍 Điểm đi:</strong> ${i.diemDon}<br>
-        <strong>🕒 Giờ đi:</strong> ${i.gioDi}<br>
-        <strong>📍 Điểm về:</strong> ${i.diemVe}<br>
-        <strong>🕒 Giờ về:</strong> ${i.gioVe}<br>
+        <strong> Điểm đi:</strong> ${i.diemDon}<br>
+        <strong> Giờ đi:</strong> ${i.gioDi}<br>
+        <strong> Điểm về:</strong> ${i.diemVe}<br>
+        <strong> Giờ về:</strong> ${i.gioVe}<br>
         <strong class="teacher">👩‍🏫 Giám sát xe:</strong> ${i.giaoVien}<br>
         <strong class="contact">📞 Liên hệ:</strong> ${i.dienThoai}
     </div>
