@@ -1,0 +1,2 @@
+const input=document.getElementById('keyword'),result=document.getElementById('result'),count=document.getElementById('count');
+input.oninput=()=>{const k=input.value.trim();if(!k){count.innerHTML='';result.innerHTML='';return;}const list=searchBus(k);count.innerHTML='Tìm thấy '+list.length+' kết quả';result.innerHTML=list.map(i=>`<div class="card"><b>${i.tuyen}</b><br>${i.diemDon}<br>${i.gioDi}<br>${i.giaoVien}<br>${i.dienThoai}</div>`).join('');};
