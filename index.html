@@ -1,41 +1,64 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Tra cứu xe buýt</title>
+    <title>Tra cứu xe buýt</title>
 
-<link rel="icon" type="image/jpeg" href="assets/logo.jpg">
-<link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="assets/logo.jpg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
 
 </head>
 
 <body>
 
-<div class="container">
+<div class="background"></div>
 
-    <div class="logo">
-        <img src="assets/logo.jpg" alt="Logo trường">
-        <h1>TRƯỜNG TIỂU HỌC ĐOÀN THỊ ĐIỂM - HÀ NỘI</h1>
-        <p>Tra cứu thông tin xe buýt năm học 2026 - 2027</p>
-    </div>
+<main class="container">
 
-    <input
-        id="keyword"
-        type="text"
-        placeholder="🔍 Nhập điểm đón, số xe hoặc giáo viên..."
-    >
+    <header class="hero">
 
-    <div id="count"></div>
+        <img src="assets/logo.jpg" class="logo" alt="Logo">
 
-    <div id="result"></div>
+        <h1>TRA CỨU XE BUÝT</h1>
 
-</div>
+        <p>Trường Tiểu học Đoàn Thị Điểm - Hà Nội<br>Năm học 2026 - 2027</p>
+
+    </header>
+
+    <section class="search-area">
+
+        <div class="search-box">
+
+            <span>🚌</span>
+
+            <input
+                id="keyword"
+                type="search"
+                placeholder="Nhập điểm đón, số xe hoặc giáo viên..."
+                autocomplete="off">
+
+        </div>
+
+        <div id="count"></div>
+
+    </section>
+
+    <section id="result" class="cards"></section>
+
+</main>
 
 <script src="js/search.js"></script>
 <script src="js/busData.js"></script>
 <script src="js/app.js"></script>
 
 </body>
+
 </html>
