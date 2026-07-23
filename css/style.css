@@ -2,64 +2,204 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
+    font-family:'Inter',sans-serif;
 }
 
 body{
-    font-family:"Segoe UI",sans-serif;
-    background:linear-gradient(135deg,#eef5fb,#dceeff);
-    padding:40px 20px;
+    background:linear-gradient(135deg,#eef7ff,#dfefff,#ffffff);
+    min-height:100vh;
+    color:#1d3557;
+}
+
+.background{
+    position:fixed;
+    inset:0;
+    background:
+    radial-gradient(circle at top right,#3b82f630 0%,transparent 30%),
+    radial-gradient(circle at bottom left,#60a5fa25 0%,transparent 35%);
+    z-index:-1;
 }
 
 .container{
-    max-width:900px;
+    width:min(1200px,92%);
     margin:auto;
-    background:#fff;
-    border-radius:20px;
-    padding:35px;
-    box-shadow:0 15px 35px rgba(0,0,0,.1);
+    padding:40px 0 70px;
+}
+
+.hero{
+    text-align:center;
+    margin-bottom:35px;
 }
 
 .logo{
-    text-align:center;
-    margin-bottom:30px;
+    width:120px;
+    height:120px;
+    object-fit:contain;
+    margin-bottom:18px;
 }
 
-.logo img{
-    width:90px;
-    margin-bottom:12px;
+.hero h1{
+    font-size:42px;
+    font-weight:800;
+    color:#0f4c81;
+    letter-spacing:1px;
 }
 
-.logo h1{
-    color:#0b6fb8;
-    font-size:28px;
-    margin-bottom:5px;
+.hero p{
+    margin-top:8px;
+    color:#5f7285;
+    font-size:17px;
 }
 
-.logo p{
-    color:#666;
+.search-area{
+    margin:35px auto;
+    max-width:850px;
 }
 
-input{
-    width:100%;
-    padding:15px 18px;
-    border:2px solid #d7e6f7;
-    border-radius:12px;
-    font-size:16px;
-    margin-bottom:20px;
-    transition:.3s;
+.search-box{
+    background:#fff;
+    display:flex;
+    align-items:center;
+    gap:15px;
+    padding:18px 24px;
+    border-radius:18px;
+    box-shadow:0 15px 40px rgba(0,70,150,.08);
+    transition:.25s;
 }
 
-input:focus{
+.search-box:focus-within{
+    box-shadow:0 20px 45px rgba(0,90,180,.18);
+    transform:translateY(-2px);
+}
+
+.search-box span{
+    font-size:24px;
+}
+
+.search-box input{
+    border:none;
     outline:none;
-    border-color:#0b6fb8;
-    box-shadow:0 0 10px rgba(11,111,184,.2);
+    flex:1;
+    font-size:18px;
+    background:transparent;
+    color:#1d3557;
+}
+
+.search-box input::placeholder{
+    color:#8da2b8;
+}
+
+#count{
+    margin-top:18px;
+    text-align:right;
+    color:#40607f;
+    font-weight:600;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(340px,1fr));
+    gap:24px;
 }
 
 .card{
-    background:white;
-    padding:18px;
-    border-left:5px solid #0b6fb8;
-    border-radius:12px;
-    margin:15px 0;
-    box-shadow:0 5px 15px rgba(0,0,0,.08);
+    background:#fff;
+    border-radius:22px;
+    overflow:hidden;
+    box-shadow:0 15px 35px rgba(0,0,0,.08);
+    transition:.25s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 25px 45px rgba(0,0,0,.12);
+}
+
+.card-top{
+    background:linear-gradient(135deg,#0f75bc,#1d9bf0);
+    color:#fff;
+    padding:24px;
+}
+
+.card-top h2{
+    font-size:24px;
+    margin-bottom:8px;
+}
+
+.position{
+    display:inline-block;
+    padding:6px 12px;
+    background:rgba(255,255,255,.18);
+    border-radius:999px;
+    font-size:14px;
+}
+
+.card-body{
+    padding:22px;
+}
+
+.item{
+    display:flex;
+    align-items:flex-start;
+    gap:12px;
+    margin-bottom:16px;
+    font-size:15px;
+}
+
+.icon{
+    width:34px;
+    height:34px;
+    border-radius:10px;
+    background:#edf5ff;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-shrink:0;
+    font-size:17px;
+}
+
+.label{
+    font-size:12px;
+    color:#8aa0b4;
+    margin-bottom:2px;
+}
+
+.value{
+    font-weight:600;
+    color:#24415d;
+    word-break:break-word;
+}
+
+.empty{
+    text-align:center;
+    padding:70px 20px;
+    color:#6d8296;
+    background:#fff;
+    border-radius:22px;
+    box-shadow:0 10px 30px rgba(0,0,0,.05);
+}
+
+@media(max-width:768px){
+
+.hero h1{
+    font-size:32px;
+}
+
+.logo{
+    width:95px;
+    height:95px;
+}
+
+.search-box{
+    padding:15px 18px;
+}
+
+.search-box input{
+    font-size:16px;
+}
+
+.cards{
+    grid-template-columns:1fr;
+}
+
 }
