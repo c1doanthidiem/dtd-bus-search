@@ -1,25 +1,63 @@
-.bus-info div{
-    margin: 6px 0;
+.bus-info {
     color: #333;
     font-size: 15px;
-    line-height: 1.5;
+    line-height: 1.7;
 }
-.bus-info span{
-    font-weight: 600;
-    color: #555;
-}
-.teacher{
-    color: #1565c0;
+
+.bus-info strong {
+    color: #222;
     font-weight: 600;
 }
 
-.teacher span{
-    color: #1565c0;
+.bus-info i {
+    width: 20px;
+    color: #666;
 }
-.phone{
-    color: #d32f2f;
+.teacher {
+    color: #2563eb;
     font-weight: 600;
 }
-.phone span{
-    color: #d32f2f;
+
+.teacher i {
+    color: #2563eb;
+}
+
+.contact {
+    color: #2563eb;
+    font-weight: 600;
+}
+
+.contact i {
+    color: #2563eb;
+}
+.route,
+.pickup,
+.dropoff,
+.time {
+    color: #444;
+}
+
+.route i,
+.pickup i,
+.dropoff i,
+.time i {
+    color: #666;
+}
+.bus-card{
+    background:#fff;
+    border-radius:18px;
+    padding:20px 24px;
+    box-shadow:0 6px 20px rgba(0,0,0,.08);
+    border-left:5px solid #2f80ed;
+    margin-bottom:18px;
+    .bus-title{
+    font-size:26px;
+    font-weight:700;
+    color:#222;
+    margin-bottom:14px;
+}
+
+.bus-title i{
+    color:#222;
+    margin-right:8px;
 }
