@@ -1,5 +1,5 @@
 window.busData = [
-{
+  {
     "tuyen": "Xe số 1",
     "giaoVien": "Cô Trần Thị Thúy Hằng",
     "dienThoai": "0914894208",
@@ -642,7 +642,7 @@ window.busData = [
     "tuyen": "Xe số 13",
     "giaoVien": "Cô Nguyễn Thương Huyền",
     "dienThoai": "0914161796",
-    "diemDon": "491 Lạc Long Quân - Khách sạn Sunset ",
+    "diemDon": "491 Lạc Long Quân - Khách sạn Sunset ",
     "gioDi": "6h38",
     "diemVe": "Đối diện điểm đi",
     "gioVe": "16h17"
@@ -671,7 +671,7 @@ window.busData = [
     "dienThoai": "0914161796",
     "diemDon": "Ngõ 120 Hoàng Quốc Việt",
     "gioDi": "6h47",
-    "diemVe": "Cao Đẳng Sư phạm Mẫu giáo TW ",
+    "diemVe": "Cao Đẳng Sư phạm Mẫu giáo TW ",
     "gioVe": "16h08"
   },
   {
@@ -1951,248 +1951,5 @@ window.busData = [
     "gioDi": "6h50",
     "diemVe": "Như điểm đi",
     "gioVe": "16h13"
-  },
-  {
-    "tuyen": "Xe số 36",
-    "giaoVien": "Cô Nguyễn Thị Thanh Hương",
-    "dienThoai": "0988767611",
-    "diemDon": "N04 Chung cư Thanh Bình, đường Thành Thái",
-    "gioDi": "6h52",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h15"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "Vimeco Phạm Hùng (Tú Mỡ)",
-    "gioDi": "6h30",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h40"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "Chung cư Viện chiến lược Khoa học công an (5 Tú Mỡ)",
-    "gioDi": "6h32",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h34"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "3 Vũ Phạm Hàm",
-    "gioDi": "6h35",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h30"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "Chung cư Homecity 177 Trung Kính",
-    "gioDi": "6h40",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h13"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "B11B Nam Trung Yên, Yên Hòa",
-    "gioDi": "6h42",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h15"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "CC E1-Ngõ 37 Trần Kim Xuyến",
-    "gioDi": "6h45",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h17"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "Chung cư Chelsea park, Yên Hòa",
-    "gioDi": "6h47",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h20"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "Trường Mầm non Yên Hòa",
-    "gioDi": "6h49",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h21"
-  },
-  {
-    "tuyen": "Xe số 37",
-    "giaoVien": "Cô Phạm Thái Hà",
-    "dienThoai": "0968156964",
-    "diemDon": "Chung cư Paragon (181 Trần Quốc Vượng)",
-    "gioDi": "6h50",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h25"
-  },
-  {
-    "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương",
-    "dienThoai": "0388998971",
-    "diemDon": "Nhà N10 Tòa nhà Hà Đô Park View, \nphố Dịch Vọng",
-    "gioDi": "6h30",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h15"
-  },
-  {
-    "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương",
-    "dienThoai": "0388998971",
-    "diemDon": "CC Luxury Park view  (Trương Công Giai)",
-    "gioDi": "6h35",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h20"
-  },
-  {
-    "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương",
-    "dienThoai": "0388998971",
-    "diemDon": "Star Tower Dương Đình Nghệ",
-    "gioDi": "6h36",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h21"
-  },
-  {
-    "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương",
-    "dienThoai": "0388998971",
-    "diemDon": "Golden Park - Số 2 Phạm Văn Bạch",
-    "gioDi": "6h38",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h23"
-  },
-  {
-    "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương",
-    "dienThoai": "0388998971",
-    "diemDon": "6 Nguyễn Hoàng (Dolphin Plaza)",
-    "gioDi": "6h42",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h10"
-  },
-  {
-    "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương",
-    "dienThoai": "0388998971",
-    "diemDon": "Mỹ Đình Plaza 2 (Trần Bình)",
-    "gioDi": "6h45",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h05"
-  },
-  {
-    "tuyen": "Xe số 38",
-    "giaoVien": "Cô Vũ Thị Lương",
-    "dienThoai": "0388998971",
-    "diemDon": "Tòa nhà 7A Lê Đức Thọ",
-    "gioDi": "6h50",
-    "diemVe": "Như điểm đi",
-    "gioVe": "15h55"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Tượng đài thị trấn Phùng, Đan Phượng",
-    "gioDi": "6h15",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h55"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Chung cư Tân Việt ",
-    "gioDi": "6h23",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h50"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Khu đô thị Tân Tây Đô, Trôi, Hoài Đức",
-    "gioDi": "6h26",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h45"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Ngã tư Trôi",
-    "gioDi": "6h31",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h27"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Chung cư CT1 KĐT HUD Vân Canh, Hoài Đức",
-    "gioDi": "6h40",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h25"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "VIA Coffee - Số 47, Liền kề 22, KĐT HUD Vân Canh",
-    "gioDi": "6h43",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h24"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "17B14 KĐT Vân Canh, Hoài Đức",
-    "gioDi": "6h44",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h22"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Số 12A BT14 KĐT Vân Canh, Hoài Đức",
-    "gioDi": "6h45",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h21"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Số 4 LK33, KĐT HUD Vân Canh, Hoài Đức ",
-    "gioDi": "6h47",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h20"
-  },
-  {
-    "tuyen": "Xe số 39",
-    "giaoVien": "Cô Nguyễn Thị Thư",
-    "dienThoai": "0366600659",
-    "diemDon": "Số 1 LK31, KĐT Vân Canh, Hoài Đức Hà Nội",
-    "gioDi": "6h50",
-    "diemVe": "Như điểm đi",
-    "gioVe": "16h15"
   }
 ];
